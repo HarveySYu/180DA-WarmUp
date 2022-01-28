@@ -1,5 +1,5 @@
 import paho.mqtt.client as mqtt
-address="ece180d/team2"
+address="ECE180D/team2"
 
 
 # 0. define callbacks - functions that run when events happen.
